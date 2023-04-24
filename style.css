@@ -108,7 +108,7 @@ button:hover {
     body {
         background-image: url(images/pattern-background-mobile.svg);
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: contain;
     }
 }
 
@@ -116,6 +116,6 @@ button:hover {
     body {
         background-image: url(images/pattern-background-desktop.svg);
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: contain;
     }
 }
